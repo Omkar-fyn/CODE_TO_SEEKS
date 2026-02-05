@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav {
+  margin-top: 20px;
+}
+
+.logo{
+  font-family: 'Bitcount Single',sans-serif;
+}
+
+.nav{
+  font-family: 'Orbitron',sans-serif;
+}
+
+.img {
+  font-family: 'Roboto', sans-serif;
+}
+
+.about{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 100px;
+}
+
+.contact{
+  font-family: 'Roboto', sans-serif;
+}
+
+.login{
+  font-family: 'Roboto', sans-serif;
+  /* margin-top: 100px; */
+}
+
+.comments{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 100px;
+}
+
+.register{
+  font-family: 'Roboto',sans-serif;
+  margin-top: 100px;
+}
+
+.contacts{
+  margin-top: 100px;
+}
